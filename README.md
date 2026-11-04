@@ -1,3 +1,4 @@
+<img width="1536" height="1024" alt="netsentinel" src="https://github.com/user-attachments/assets/3f0bee4c-e78e-4cdf-81a0-88c75857c31a" />
 # NetSentinel
 Network Security Monitoring and Rule-Based Risk Assessment Platform using Python, Nmap, Flask and SQLite
 
